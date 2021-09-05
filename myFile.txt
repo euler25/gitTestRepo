@@ -1,0 +1,2 @@
+El colaboradro 1 ha editat el fitxer myFile.txt
+
